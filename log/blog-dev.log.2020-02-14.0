@@ -1,0 +1,2 @@
+2020-02-14 03:54:21.886  INFO 12128 --- [http-nio-8080-exec-10] com.chnn10.aspect.LogAspect              : Request : {url='http://localhost:8080/', ip='0:0:0:0:0:0:0:1', classMethod='com.chnn10.web.IndexController.index', args=[Page request [number: 0, size 8, sort: updateTime: DESC], {}]}
+2020-02-14 03:54:22.378  INFO 12128 --- [http-nio-8080-exec-10] com.chnn10.aspect.LogAspect              : Result : index

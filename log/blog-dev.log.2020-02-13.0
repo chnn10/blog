@@ -1,0 +1,7 @@
+2020-02-13 03:16:16.941  INFO 12128 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2020-02-13 03:16:17.337  INFO 12128 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2020-02-13 03:16:17.613  INFO 12128 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 275 ms
+2020-02-13 03:16:17.755  INFO 12128 --- [http-nio-8080-exec-2] com.chnn10.aspect.LogAspect              : Request : {url='http://localhost:8080/', ip='0:0:0:0:0:0:0:1', classMethod='com.chnn10.web.IndexController.index', args=[Page request [number: 0, size 8, sort: updateTime: DESC], {}]}
+2020-02-13 03:16:18.253  WARN 12128 --- [http-nio-8080-exec-2] org.hibernate.orm.deprecation            : HHH90000016: Found use of deprecated 'collection property' syntax in HQL/JPQL query [null.size]; use collection function syntax instead [size(null)].
+2020-02-13 03:16:18.284  WARN 12128 --- [http-nio-8080-exec-2] org.hibernate.orm.deprecation            : HHH90000016: Found use of deprecated 'collection property' syntax in HQL/JPQL query [null.size]; use collection function syntax instead [size(null)].
+2020-02-13 03:16:18.304  INFO 12128 --- [http-nio-8080-exec-2] com.chnn10.aspect.LogAspect              : Result : index
