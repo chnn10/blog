@@ -26,7 +26,7 @@
 ### 项目展示
 前端首页
 
-![](https://user-gold-cdn.xitu.io/2020/3/9/170be3f6b5cfdf66?w=2053&h=1226&f=png&s=644489)
+![](https://github.com/chnn10/blog/blob/master/font.png)
 
 博客详情
 
